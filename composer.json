@@ -1,0 +1,18 @@
+{
+    "name": "thomowous/tracker",
+    "description": "Tracker package for Laravel",
+    "keywords": [
+        "tracker",
+        "tracking",
+        "logging",
+        "laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomáš Bělohlavek",
+            "email": "tomas.belohlavek99@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
